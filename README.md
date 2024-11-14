@@ -1,4 +1,4 @@
-# WeekTaskSubmission
+# Week8TaskSubmission
 
 **Sol 1**: concepts of Continuous Integration (CI) and Continuous Testing (CT). Using real world scenario as discussed in class to illustrate
 importance of CI/CT in improving software quality and efficiency.
